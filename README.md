@@ -4,10 +4,9 @@
 Este repositório foi desenvolvido com o objetivo de apresentar meus projetos acadêmicos e pessoais na área de tecnologia e desenvolvimento web.
 
 ## Tecnologias Utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- Bootstrap
 - Python
 - Git e GitHub
 
