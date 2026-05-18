@@ -42,7 +42,7 @@ Desenvolvimento de página web utilizando HTML, CSS, Bootstrap e GitHub Pages.
 ## GitHub Pages
 Acesse o projeto online:
 
-https://nicolasfariaxx.github.io/PortfolioHUBN/
+https://nicolasfariaxx.github.io/PORTFOLIOHUBNF/
 
 ## Autor
 Nicolas Farias
